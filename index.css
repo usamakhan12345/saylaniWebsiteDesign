@@ -1,0 +1,160 @@
+.navbar{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    border-radius: 5px;
+    border-bottom-width: 18px;
+    border-bottom-color: wheat;
+    border-color: white;
+    box-shadow: 2px 5px whitesmoke;
+}
+
+ #logo{
+    height: 10x;
+    width: 2px;
+
+}
+.class{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    padding: 0px;
+    margin-left: 21px;
+    margin-right: 21px;
+    line-height: normal;
+}
+.top{
+    background-color: lightgrey;
+    margin-bottom: 0px;
+}
+#donatebutt{
+    background-color: blue;
+    color: white;
+    width: 130px;
+    height: 40px;
+    border-radius: 8px;
+    border-color: blue;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.imge{
+    margin-top: 20px;
+}   
+.text{
+    margin-top: 80px;
+}
+#light{
+    font-weight: lighter;
+}
+#green{
+    color: rgb(73, 163, 73);
+    display: inline;
+}
+.button{
+    display: inline;
+    justify-content: space-around;
+    height: 40px;
+    width: 125px;
+    line-height: 30px;
+    justify-items: center;
+}
+ul{
+    list-style-type: none;
+}
+#but1{
+    width: 150px;
+}
+
+.centre {
+    margin: 20px 80px 10px 80px;
+    padding: 0px;
+    background-color: lightgrey;
+    display: flex;
+    padding-top: 45px ;
+    padding-left: 28px;
+    padding-bottom: 14px;
+}
+.centrebut{
+    padding-top: 44px;
+    justify-content: space-around;
+    padding-right: 30px;
+}
+.centrebut li {
+    border-radius: 8px;
+    line-height: 8px;
+    height: 80px;
+    padding-right: 12px;
+}
+.iconcontainer{
+    display: flex;
+    height: 250px;
+}
+.icon{
+    height: 2px;
+    width: 15px;
+    padding-right: 225px;
+    justify-content: space-around;
+    justify-items: self-start;
+}
+.icon{
+    margin-top: 50px;
+    width: 180px;
+    background-color:aliceblue;
+    justify-content:space-between;
+    
+    height: 150px;
+    padding-top: 70px;
+    size: 500px ;
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-right: 40px;
+    padding-left: 30px;
+
+}
+.size{
+    width: 104px !important;
+    height: ;
+}
+.piccontainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.pic{
+width: -14px;
+height: 30px;
+
+}
+.image1{
+    background-image: ('https://old.saylaniwelfare.com/public_html/images/saylani/gallery/hazrat2.jpg');
+}
+.iconcontainer{
+
+    
+    justify-content: space-between;
+}
+.imge{
+    text-align: center;
+}
+.head{
+    text-align: center;
+    margin-top: 48px;
+}
+.btn{
+    height: 55px;
+
+}
+.topbat{
+    display: inline;
+
+}
+.parent{
+    display: flex;
+}

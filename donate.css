@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.head{
+    justify-content: center;
+    color: rgb(3, 71, 3);
+}
+ li > input{
+    width: 500px;
+    height: 40px;
+    
+ }
+ ul > li {
+    margin-bottom: 30px;
+ }
+ ul > input:hover {
+    color: green;
+    border-color: green;
+ }
+ .head{
+    color: green;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    
+ }
